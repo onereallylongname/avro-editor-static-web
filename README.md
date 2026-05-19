@@ -3,7 +3,8 @@
 ![avro-edit-logo](images/icon.png)
 
 A static site that to visualize and edit avro schemas (.avsc).
-A working and freely usable version ca be found at [https://onereallylongname.github.io/tools/avro/avro-editor.html](https://onereallylongname.github.io/tools/avro/avro-editor.html)
+A working and freely usable version ca be found at [https://onereallylongname.github.io/tools/avro/avro-editor.html](https://onereallylongname.github.io/tools/avro/avro-editor.html).
+Now with a TUYI version at [avedit](https://github.com/onereallylongname/avedit/tree/main).
 
 It renders the avro fields as a tree with collapsible rows and details page.
 The rows allow for deletion, copy, adding new and moving, fields.
